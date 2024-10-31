@@ -1,1 +1,1 @@
-# photoblog
+# photoblog-html
